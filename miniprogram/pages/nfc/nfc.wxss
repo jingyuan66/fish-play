@@ -1,0 +1,4 @@
+.container { padding: 32rpx; }
+.title { font-size: 36rpx; font-weight: bold; margin-bottom: 32rpx; }
+.result { font-size: 28rpx; margin-bottom: 16rpx; }
+.content { font-size: 32rpx; color: #007aff; word-break: break-all; }

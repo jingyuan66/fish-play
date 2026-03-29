@@ -1,0 +1,8 @@
+{
+  "pages": [
+    "pages/nfc/nfc"
+  ],
+  "window": {
+    "navigationBarTitleText": "NFC读取"
+  }
+}

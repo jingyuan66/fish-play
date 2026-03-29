@@ -1,0 +1,5 @@
+<view class="container">
+  <view class="title">NFC读取NTAG213演示</view>
+  <view class="result">读取到的内容：</view>
+  <view class="content">{{nfcContent}}</view>
+</view>
